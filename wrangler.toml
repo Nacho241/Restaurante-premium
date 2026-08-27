@@ -1,0 +1,9 @@
+name = "primuseum-site"
+compatibility_date = "2026-08-27"
+pages_build_output_dir = "."
+
+# Después de crear D1, reemplazá TU_DATABASE_ID por el ID real.
+[[d1_databases]]
+binding = "DB"
+database_name = "primuseum-reservas"
+database_id = "TU_DATABASE_ID"
